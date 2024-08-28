@@ -5,7 +5,9 @@
         "author": "Author 1",
         "isbn": "1234567890",
         "pubDate": "2022-08-21",
-        "genre": "Fiction"
+        "genre": "Fiction",
+          "price" : 240,
+          "discount" : 20
       },
       {
         "title": "Book B",
