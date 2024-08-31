@@ -20,7 +20,7 @@
       "price": 2000,
       "discount": 10,
       "type": "ebook",
-      "fileSize": 15
+      "filesize": 15
     },
     {
       "title": "Book C",
@@ -42,7 +42,7 @@
       "price": 1200,
       "discount": 25,
       "type": "ebook",
-      "fileSize": 25
+      "filesize": 25
     },
     {
       "title": "Book E",
@@ -64,7 +64,7 @@
       "price": 500,
       "discount": 15,
       "type": "ebook",
-      "fileSize": 5
+      "filesize": 5
     },
     {
       "title": "Book G",
