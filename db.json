@@ -8,7 +8,7 @@
       "genre": "Fiction",
       "price": 240,
       "discount": 20,
-      "type": "printed",
+      "type": "Printed Book",
       "weight": 500
     },
     {
@@ -19,7 +19,7 @@
       "genre": "Non-Fiction",
       "price": 2000,
       "discount": 10,
-      "type": "ebook",
+      "type": "Ebook",
       "filesize": 15
     },
     {
@@ -30,7 +30,7 @@
       "genre": "Biography",
       "price": 2430,
       "discount": 20,
-      "type": "printed",
+      "type": "Printed Book",
       "weight": 750
     },
     {
@@ -41,7 +41,7 @@
       "genre": "Fiction",
       "price": 1200,
       "discount": 25,
-      "type": "ebook",
+      "type": "Ebook",
       "filesize": 25
     },
     {
@@ -52,7 +52,7 @@
       "genre": "History",
       "price": 2940,
       "discount": 20,
-      "type": "printed",
+      "type": "Printed Book",
       "weight": 1000
     },
     {
@@ -63,7 +63,7 @@
       "genre": "science-fiction",
       "price": 500,
       "discount": 15,
-      "type": "ebook",
+      "type": "Ebook",
       "filesize": 5
     },
     {
@@ -74,7 +74,7 @@
       "genre": "History",
       "price": 1750,
       "discount": 30,
-      "type": "printed",
+      "type": "Printed Book",
       "weight": 1200
     }
   ]
