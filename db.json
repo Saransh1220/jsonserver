@@ -1,50 +1,81 @@
 {
-    "books": [
-      {
-        "title": "Book A",
-        "author": "Author 1",
-        "isbn": "1234567890",
-        "pubDate": "2022-08-21",
-        "genre": "Fiction",
-          "price" : 240,
-          "discount" : 20
-      },
-      {
-        "title": "Book B",
-        "author": "Author 2",
-        "isbn": "2345678901",
-        "pubDate": "2021-05-15",
-        "genre": "Non-Fiction",
-          "price" : 2000,
-          "discount" : 10
-      },
-      {
-        "title": "Book C",
-        "author": "Author 3",
-        "isbn": "3456789012",
-        "pubDate": "2020-11-10",
-        "genre": "Biography",
-          "price" : 2430,
-          "discount" : 20
-      },
-      {
-        "title": "Book D",
-        "author": "Author 4",
-        "isbn": "4567890123",
-        "pubDate": "2019-07-25",
-        "genre": "Fiction",
-          "price" : 1200,
-          "discount" : 25
-      },
-      {
-        "title": "Book E",
-        "author": "Author 5",
-        "isbn": "5678901234",
-        "pubDate": "2018-03-22",
-        "genre": "History",
-          "price" : 2940,
-          "discount" : 20
-      }
-    ]
-  }
-  
+  "books": [
+    {
+      "title": "Book A",
+      "author": "Author 1",
+      "isbn": "1234567890",
+      "pubDate": "2022-08-21",
+      "genre": "Fiction",
+      "price": 240,
+      "discount": 20,
+      "type": "printed",
+      "weight": 500
+    },
+    {
+      "title": "Book B",
+      "author": "Author 2",
+      "isbn": "2345678901",
+      "pubDate": "2021-05-15",
+      "genre": "Non-Fiction",
+      "price": 2000,
+      "discount": 10,
+      "type": "ebook",
+      "fileSize": 15
+    },
+    {
+      "title": "Book C",
+      "author": "Author 3",
+      "isbn": "3456789012",
+      "pubDate": "2020-11-10",
+      "genre": "Biography",
+      "price": 2430,
+      "discount": 20,
+      "type": "printed",
+      "weight": 750
+    },
+    {
+      "title": "Book D",
+      "author": "Author 4",
+      "isbn": "4567890123",
+      "pubDate": "2019-07-25",
+      "genre": "Fiction",
+      "price": 1200,
+      "discount": 25,
+      "type": "ebook",
+      "fileSize": 25
+    },
+    {
+      "title": "Book E",
+      "author": "Author 5",
+      "isbn": "5678901234",
+      "pubDate": "2018-03-22",
+      "genre": "History",
+      "price": 2940,
+      "discount": 20,
+      "type": "printed",
+      "weight": 1000
+    },
+    {
+      "title": "Book F",
+      "author": "Author 6",
+      "isbn": "6789012345",
+      "pubDate": "2023-01-10",
+      "genre": "science-fiction",
+      "price": 500,
+      "discount": 15,
+      "type": "ebook",
+      "fileSize": 5
+    },
+    {
+      "title": "Book G",
+      "author": "Author 7",
+      "isbn": "7890123456",
+      "pubDate": "2017-09-05",
+      "genre": "History",
+      "price": 1750,
+      "discount": 30,
+      "type": "printed",
+      "weight": 1200
+    }
+  ]
+}
